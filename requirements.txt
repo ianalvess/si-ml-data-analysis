@@ -4,4 +4,3 @@ matplotlib
 seaborn
 rdkit
 scikit-learn
-nbformat
